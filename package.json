@@ -1,0 +1,25 @@
+{
+  "name": "ngjade",
+  "version": "0.0.1",
+  "description": "Component plugin for Angular.js + Jade Templates",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mvanasse/ngjade.git"
+  },
+  "keywords": [
+    "angular",
+    "jade",
+    "component"
+  ],
+  "author": {
+    "name": "Michael Vanasse"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "jade": "~0.35.0"
+  }
+}
